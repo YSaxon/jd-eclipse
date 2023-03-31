@@ -29,6 +29,8 @@ generate _"build/distributions/jd-eclipse-x.y.z.zip"_
 6. Click on "Next" and "Finish" buttons.
 7. A warning dialog windows appear because _"org.jd.ide.eclipse.plugin_x.y.z.jar"_ is not signed. Click on "Install anyway" button.
 
+(On macOS, click add -> archive -> browse to or drag and drop the zip file.)
+
 ![](https://raw.githubusercontent.com/java-decompiler/jd-eclipse/master/src/website/img/install_anyway.png)
 
 ## How to check the file associations ?
